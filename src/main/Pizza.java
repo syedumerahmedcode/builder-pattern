@@ -95,6 +95,7 @@ final class Pizza {
 	 */
 	public static class PizzaBuilder {
 
+		private static final String BASE_OR_SIZE_CANT_BE_NULL = "Base or size can't be null!";
 		private final Base base;
 		private final Size size;
 		private Crust crust;
@@ -109,7 +110,7 @@ final class Pizza {
 
 		private void throwExceptionIfBaseOrSizeAreNull(Base base, Size size) {
 			if (base == null || size == null) {
-				throw new IllegalArgumentException("base or size can't be null!");
+				throw new IllegalArgumentException(BASE_OR_SIZE_CANT_BE_NULL);
 			}
 		}
 
