@@ -7,18 +7,11 @@
 
 ## Introduction
 
-This project contains an application which can be used to:
-- Create a new bank account with an initial deposit for a customer.
-  - A single customer may have multiple accounts.
-- Transfer amounts between two accounts, including those owned by different customers.
-- Retrieve balance for a given account.
-- Retrieve transaction history for a given account.
+- TBD
 
 ## Technologies Used
 
 - Java 11
-
-
 
 
 ## Contact Information
