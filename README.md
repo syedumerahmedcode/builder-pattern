@@ -5,23 +5,30 @@
 - [Explanation Builder Pattern](#explanation-builder-pattern)
 - [Technologies Used](#technologies-used)
 - [References](#references)
+- [Contribution](#contribution)
 - [Contact Information](#contact-information)
 
 ## Introduction
 
-- TBD
+- To be defined
 
 ## Explanation Builder Pattern
 
-- TBD
+- To be defined
 
 ## Technologies Used
 
 - Java 11
 
+
 ## References
 
-- to be defined
+- To be defined
+
+## Contribution
+
+Feature requests, issues, pull requests and questions are welcome.
+
 
 
 ## Contact Information
