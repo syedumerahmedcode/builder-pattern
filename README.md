@@ -10,7 +10,9 @@
 
 ## Introduction
 
-- To be defined
+This project uses builder pattern to create Objects. In this example, a custom Pizza is created for a restaurant using the Builder Pattern. The following enums represent various aspects of a Pizza:
+
+- 
 
 ## Explanation Builder Pattern
 
