@@ -2,16 +2,26 @@
 
 ## Table of content
 - [Introduction](#introduction)
+- [Explanation Builder Pattern](#explanation-builder-pattern)
 - [Technologies Used](#technologies-used)
+- [References](#references)
 - [Contact Information](#contact-information)
 
 ## Introduction
 
 - TBD
 
+## Explanation Builder Pattern
+
+- TBD
+
 ## Technologies Used
 
 - Java 11
+
+## References
+
+- to be defined
 
 
 ## Contact Information
