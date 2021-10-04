@@ -12,7 +12,12 @@
 
 This project uses builder pattern to create Objects. In this example, a custom Pizza is created for a restaurant using the Builder Pattern. The following enums represent various aspects of a Pizza:
 
-- 
+- **Base.java**: Defines the base of the pizza.
+- **Cheese.java**: Defines the type of cheese for the Pizza.
+- **Crust.java**: Defines the type of crust for the Pizza.
+- **Size.java**: Defines the size (i.e. diameter) of the Pizza.
+- **Toppings.java**: Defines the kinds of toppings taht are available for the Pizza.
+ 
 
 ## Explanation Builder Pattern
 
