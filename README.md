@@ -63,6 +63,7 @@ I used this pattern in a base class which provided different test objects based 
 ## References
 
 - [1](https://en.wikipedia.org/wiki/Builder_pattern): Builder pattern
+- [2](https://www.youtube.com/watch?v=M7Xi1yO_s8E): Builder Pattern - Design Patterns **(Youtube)**
 
 ## Contribution
 
