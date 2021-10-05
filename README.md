@@ -48,6 +48,7 @@ Using this pattern removes the need to call **_new_** operator on a class and th
 
 - Provides control over steps of construction process.
 - Allows us to vary a product's internal representation.
+- Allows us to dynamically create objects however we want to.
 
 **Practical Experience**
 
