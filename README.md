@@ -51,7 +51,7 @@ Using this pattern removes the need to call **_new_** operator on a class and th
 
 **Practical Experience**
 
-I used this pattern in a base class which provided different test objects based on different test requirements. 
+I used this pattern in a base class which provided different test objects based on different test requirements.  
 
 
 ## Technologies Used
