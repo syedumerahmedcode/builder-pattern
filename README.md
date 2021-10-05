@@ -37,7 +37,11 @@ public Pizza build() {
 
 ## Explanation Builder Pattern
 
-- To be defined
+The _Builder Pattern_ is one of the _GoF design pattern_ that describes how to solve recurring design problems in object oriented software. The main aim of the Builder design pattern is to separate the construction of complex object from its representation. The main problems that this pattern solves  are:
+
+-  Encapsulate creating and assembling the part of a complex object in a separate Builder object. In our project, it is done via **static class PizzaBuilder**.
+- In this way, the class delegates the creation to a _Builder_ object instead of creating the objects directly. That means that in our project, we **do not call** _new Pizza()_.  
+
 
 ## Technologies Used
 
@@ -46,7 +50,7 @@ public Pizza build() {
 
 ## References
 
-- To be defined
+- [1](https://en.wikipedia.org/wiki/Builder_pattern): Builder pattern
 
 ## Contribution
 
