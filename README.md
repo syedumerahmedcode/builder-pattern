@@ -42,6 +42,17 @@ The _Builder Pattern_ is one of the _GoF design pattern_ that describes how to s
 -  Encapsulate creating and assembling the part of a complex object in a separate Builder object. In our project, it is done via **static class PizzaBuilder**.
 - In this way, the class delegates the creation to a _Builder_ object instead of creating the objects directly. That means that in our project, we **do not call** _new Pizza()_.  
 
+Using this pattern removes the need to call **_new_** operator on a class and the same construction process can create different representations.
+
+**Advantages**
+
+- Provides control over steps of construction process.
+- Allows us to vary a product's internal representation.
+
+**Practical Experience**
+
+I used this pattern in a base class which provided different test objects based on different test requirements. 
+
 
 ## Technologies Used
 
