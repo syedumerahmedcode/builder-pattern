@@ -52,7 +52,7 @@ Using this pattern removes the need to call **_new_** operator on a class and th
 
 **Practical Experience**
 
-I used this pattern in a base class which provided different test objects based on different test requirements.  
+I used this pattern in a base class which provided different test objects based on different test requirements. Additionally, it is implemented as _@Builder_ annotation from lombok project.
 
 
 ## Technologies Used
@@ -64,6 +64,7 @@ I used this pattern in a base class which provided different test objects based 
 
 - [1](https://en.wikipedia.org/wiki/Builder_pattern): Builder pattern
 - [2](https://www.youtube.com/watch?v=M7Xi1yO_s8E): Builder Pattern - Design Patterns **(Youtube)**
+- [3](https://www.youtube.com/watch?v=z0160iYN1Yo): The Builder Pattern: How to use it with Hibernate **(Youtube)**---> Note: This video is not using lombok annotation.
 
 ## Contribution
 
